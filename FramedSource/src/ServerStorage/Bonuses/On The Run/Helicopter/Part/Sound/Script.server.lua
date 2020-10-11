@@ -1,0 +1,7 @@
+wait(0.5)
+script.Parent:Play()
+wait()
+script.Parent:Play()
+script.Parent:Play()
+wait()
+script.Parent:Play()
