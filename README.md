@@ -2,6 +2,7 @@
 The official source code of Framed as of 10/11/2020.
 
 This repository exists as a piece of Roblox history, to show an example of the trends and coding styles that were common on Roblox in the early 2010s.
+It serves as an education piece of bad practices in Roblox code.
 This code is licensed under the GNU General Public License 3.0. As such, any derivative works must also be open source.
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
